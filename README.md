@@ -1,9 +1,13 @@
 ###### LAST UPDATED:21 OCT 2020  | Time(Approx.): 23:59 IST
 
 # 90-Days-Of-NCERT-
-## JO PADEDGA WOH PHODEGA(Jee)
+## JO PADEDGA WOH PHODEGA(Jee)🏆
 This repo is my personal challenge for my Jee prepation and for 12th boards .Here I will showcase the topics/Chapters/questions i have done that day !
+✨
 
+# 👨‍🎓 Name : [Sudhanshu Tiwari](https://github.com/sudhanshutiwari264)
+# 🕺 Class : XII  
+# 😜 BOARD: CENTRAL BOARD OF SECONDARY EDUCATION (CBSE)
 
 # Day 1 
 ## Date : 22 OCT 2020
@@ -735,4 +739,4 @@ This repo is my personal challenge for my Jee prepation and for 12th boards .Her
 | Maths | NA | NA
 | Chemistry | NA | NA
 
->>> 
+## THANKS FOR MOTIVATING ME !
