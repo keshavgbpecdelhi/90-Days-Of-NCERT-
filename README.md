@@ -1,4 +1,4 @@
-###### LAST UPDATED:21 OCT 2020  | Time(Approx.): 23:59 IST
+###### LAST UPDATED:23 OCT 2020  | Time(Approx.): 16:55 IST
 
 # 90-Days-Of-NCERT-
 ## JO PADEDGA WOH PHODEGA(Jee)🏆
@@ -10,16 +10,19 @@ This repo is my personal challenge for my Jee prepation and for 12th boards .Her
 # 😜 BOARD: CENTRAL BOARD OF SECONDARY EDUCATION (CBSE)
 
 # Day 1 
-## Date : 22 OCT 2020
+## Date : 23 OCT 2020
+
 
 | Subject | Topic | Questions Done [Moderate,Tough,Easy]
 | ------ | --------------| -------- |
 | Physics | NA | NA
 | Maths | NA | NA
 | Chemistry | NA | NA
+##### Done some calculation and derivation !
+##### Motivation : [Every Single Set That I do ,every repetition,every weight(topic) That I complete will get me a step closer to turn this goal into reality !    By Arnold Schwarzenegger](https://www.youtube.com/watch?v=1bumPyvzCyo&t=2s)
 
 # Day 2
-## Date : 23 OCT 2020
+## Date : 24 OCT 2020
 
 | Subject | Topic | Questions Done [Moderate,Tough,Easy]
 | ------ | --------------| -------- |
