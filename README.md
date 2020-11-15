@@ -1,4 +1,4 @@
-###### LAST UPDATED:8 NOV 2020  | Time(Approx.): 11:15 pm IST
+###### LAST UPDATED:15 NOV 2020  | Time(Approx.): 10:15 pm IST
 
 # 90-Days-Of-NCERT-
 ## JO PADEDGA WOH PHODEGA(Jee)🏆
@@ -36,6 +36,70 @@ This repo is  challenge to myself for my Jee prepation and for 12th boards .Here
 
 </details>
 
+<details>
+<summary> Day 3(click to expand)</summary>
+
+## Date : 11 NOV 2020
+
+| Subject | Topic | Questions Done [Moderate,Tough,Easy]
+| ------ | --------------| -------- |
+| Physics | NA | NA
+| Maths | NA | NA
+| Chemistry | NA | NA
+
+</details>
+
+<details>
+<summary> Day 4(click to expand)</summary>
+
+## Date : 12 NOV 2020
+
+| Subject | Topic | Questions Done [Moderate,Tough,Easy]
+| ------ | --------------| -------- |
+| Physics | NA | NA
+| Maths | NA | NA
+| Chemistry | NA | NA
+
+</details>
+
+<details>
+<summary> Day 5(click to expand)</summary>
+
+## Date : 13 NOV 2020
+
+| Subject | Topic | Questions Done [Moderate,Tough,Easy]
+| ------ | --------------| -------- |
+| Physics | NA | NA
+| Maths | NA | NA
+| Chemistry | NA | NA
+
+</details>
+
+<details>
+<summary> Day 6(click to expand)</summary>
+
+## Date : 14 NOV 2020
+
+| Subject | Topic | Questions Done [Moderate,Tough,Easy]
+| ------ | --------------| -------- |
+| Physics | NA | NA
+| Maths | NA | NA
+| Chemistry | NA | NA
+
+</details>
+
+<details>
+<summary> Day 7(click to expand)</summary>
+
+## Date : 15 NOV 2020
+
+| Subject | Topic | Questions Done [Moderate,Tough,Easy]
+| ------ | --------------| -------- |
+| Physics | NA | NA
+| Maths | NA | NA
+| Chemistry | NA | NA
+
+</details>
 
 ## THANKS FOR MOTIVATING ME 
 - [x] I will update this repo daily !
