@@ -1,4 +1,4 @@
-###### LAST UPDATED:15 NOV 2020  | Time(Approx.): 10:15 pm IST
+###### LAST UPDATED:16 NOV 2020  | Time(Approx.): 10:15 pm IST
 
 # 90-Days-Of-NCERT-
 ## JO PADEDGA WOH PHODEGA(Jee)🏆
