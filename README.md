@@ -101,6 +101,19 @@ This repo is  challenge to myself for my Jee prepation and for 12th boards .Here
 
 </details>
 
+<details>
+<summary> Day 8(click to expand)</summary>
+
+## Date : 16 NOV 2020
+
+| Subject | Topic | Questions Done [Moderate,Tough,Easy]
+| ------ | --------------| -------- |
+| Physics | NA | NA
+| Maths | NA | NA
+| Chemistry | NA | NA
+
+</details>
+
 ## THANKS FOR MOTIVATING ME 
 - [x] I will update this repo daily !
 #### Feel free to suggets and give me advice !🎶
