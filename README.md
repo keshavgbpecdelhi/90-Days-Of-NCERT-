@@ -1,4 +1,4 @@
-###### LAST UPDATED:16 NOV 2020  | Time(Approx.): 10:15 pm IST
+###### LAST UPDATED:17 NOV 2020  | Time(Approx.): 11:35 am IST
 
 # 90-Days-Of-NCERT-
 ## JO PADEDGA WOH PHODEGA(Jee)🏆
@@ -101,10 +101,24 @@ This repo is  challenge to myself for my Jee prepation and for 12th boards .Here
 
 </details>
 
+
 <details>
 <summary> Day 8(click to expand)</summary>
 
 ## Date : 16 NOV 2020
+
+| Subject | Topic | Questions Done [Moderate,Tough,Easy]
+| ------ | --------------| -------- |
+| Physics | NA | NA
+| Maths | NA | NA
+| Chemistry | NA | NA
+
+</details>
+
+<details>
+<summary> Day 9(click to expand)</summary>
+
+## Date : 17 NOV 2020
 
 | Subject | Topic | Questions Done [Moderate,Tough,Easy]
 | ------ | --------------| -------- |
